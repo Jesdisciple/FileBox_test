@@ -79,11 +79,6 @@
 			<ListBoxItem>
 				<Expander Header="Header" Padding="0">
 					<ListBox>
-						<ListBox.Resources>
-							<SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="Transparent" />
-							<SolidColorBrush x:Key="{x:Static SystemColors.HighlightTextBrushKey}" Color="Black" />
-							<SolidColorBrush x:Key="{x:Static SystemColors.ControlBrushKey}" Color="Transparent" />
-						</ListBox.Resources>
 						<ListBoxItem>
 							<Grid Margin="0" Height="40">
 								<Grid.ColumnDefinitions>
